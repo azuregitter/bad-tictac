@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/riegoreactpage/static/css/main.7083cbe6.chunk.css",
-    "main.js": "/riegoreactpage/static/js/main.2149ecfc.chunk.js",
-    "main.js.map": "/riegoreactpage/static/js/main.2149ecfc.chunk.js.map",
+    "main.js": "/riegoreactpage/static/js/main.e99c7b4b.chunk.js",
+    "main.js.map": "/riegoreactpage/static/js/main.e99c7b4b.chunk.js.map",
     "runtime-main.js": "/riegoreactpage/static/js/runtime-main.cd7d024b.js",
     "runtime-main.js.map": "/riegoreactpage/static/js/runtime-main.cd7d024b.js.map",
     "static/js/2.1295925a.chunk.js": "/riegoreactpage/static/js/2.1295925a.chunk.js",
     "static/js/2.1295925a.chunk.js.map": "/riegoreactpage/static/js/2.1295925a.chunk.js.map",
     "index.html": "/riegoreactpage/index.html",
-    "precache-manifest.4577e6cbadeb45d0cd7581e78dd6a828.js": "/riegoreactpage/precache-manifest.4577e6cbadeb45d0cd7581e78dd6a828.js",
+    "precache-manifest.960043ff2d156d4a0eaa87cde24287d5.js": "/riegoreactpage/precache-manifest.960043ff2d156d4a0eaa87cde24287d5.js",
     "service-worker.js": "/riegoreactpage/service-worker.js",
     "static/css/main.7083cbe6.chunk.css.map": "/riegoreactpage/static/css/main.7083cbe6.chunk.css.map",
     "static/js/2.1295925a.chunk.js.LICENSE.txt": "/riegoreactpage/static/js/2.1295925a.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.cd7d024b.js",
     "static/js/2.1295925a.chunk.js",
     "static/css/main.7083cbe6.chunk.css",
-    "static/js/main.2149ecfc.chunk.js"
+    "static/js/main.e99c7b4b.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f587382b36e63cf5605b30b83ebb220",
+    "revision": "726aa0ecd23e78e2de1808095e851c8e",
     "url": "/riegoreactpage/index.html"
   },
   {
-    "revision": "1e7791ee7701f047910c",
+    "revision": "6a0e0cbb915326416edf",
     "url": "/riegoreactpage/static/css/main.7083cbe6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/riegoreactpage/static/js/2.1295925a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e7791ee7701f047910c",
-    "url": "/riegoreactpage/static/js/main.2149ecfc.chunk.js"
+    "revision": "6a0e0cbb915326416edf",
+    "url": "/riegoreactpage/static/js/main.e99c7b4b.chunk.js"
   },
   {
     "revision": "bcfd70ec760ffffb7969",
