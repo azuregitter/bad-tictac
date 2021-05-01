@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/riegoreactpage/static/css/main.7083cbe6.chunk.css",
-    "main.js": "/riegoreactpage/static/js/main.e99c7b4b.chunk.js",
-    "main.js.map": "/riegoreactpage/static/js/main.e99c7b4b.chunk.js.map",
+    "main.css": "/riegoreactpage/static/css/main.4ab3d214.chunk.css",
+    "main.js": "/riegoreactpage/static/js/main.55604a08.chunk.js",
+    "main.js.map": "/riegoreactpage/static/js/main.55604a08.chunk.js.map",
     "runtime-main.js": "/riegoreactpage/static/js/runtime-main.cd7d024b.js",
     "runtime-main.js.map": "/riegoreactpage/static/js/runtime-main.cd7d024b.js.map",
-    "static/js/2.1295925a.chunk.js": "/riegoreactpage/static/js/2.1295925a.chunk.js",
-    "static/js/2.1295925a.chunk.js.map": "/riegoreactpage/static/js/2.1295925a.chunk.js.map",
+    "static/js/2.8944fbd4.chunk.js": "/riegoreactpage/static/js/2.8944fbd4.chunk.js",
+    "static/js/2.8944fbd4.chunk.js.map": "/riegoreactpage/static/js/2.8944fbd4.chunk.js.map",
     "index.html": "/riegoreactpage/index.html",
-    "precache-manifest.960043ff2d156d4a0eaa87cde24287d5.js": "/riegoreactpage/precache-manifest.960043ff2d156d4a0eaa87cde24287d5.js",
+    "precache-manifest.813f62f5f1e8e264210281eaa3a08095.js": "/riegoreactpage/precache-manifest.813f62f5f1e8e264210281eaa3a08095.js",
     "service-worker.js": "/riegoreactpage/service-worker.js",
-    "static/css/main.7083cbe6.chunk.css.map": "/riegoreactpage/static/css/main.7083cbe6.chunk.css.map",
-    "static/js/2.1295925a.chunk.js.LICENSE.txt": "/riegoreactpage/static/js/2.1295925a.chunk.js.LICENSE.txt",
-    "static/media/0.png": "/riegoreactpage/static/media/0.1ac0cdf4.png",
-    "static/media/1.png": "/riegoreactpage/static/media/1.51886f7c.png",
-    "static/media/3.png": "/riegoreactpage/static/media/3.c6600fef.png",
-    "static/media/4.png": "/riegoreactpage/static/media/4.20dcf4ff.png",
-    "static/media/5.png": "/riegoreactpage/static/media/5.90ca2505.png",
-    "static/media/6.png": "/riegoreactpage/static/media/6.074a6db1.png",
-    "static/media/7.png": "/riegoreactpage/static/media/7.df4a512e.png",
-    "static/media/8.png": "/riegoreactpage/static/media/8.aa6af18b.png",
-    "static/media/ataks.gif": "/riegoreactpage/static/media/ataks.94bc0ad6.gif"
+    "static/css/main.4ab3d214.chunk.css.map": "/riegoreactpage/static/css/main.4ab3d214.chunk.css.map",
+    "static/js/2.8944fbd4.chunk.js.LICENSE.txt": "/riegoreactpage/static/js/2.8944fbd4.chunk.js.LICENSE.txt",
+    "static/media/0.png": "/riegoreactpage/static/media/0.ae1e4bf6.png",
+    "static/media/1.png": "/riegoreactpage/static/media/1.e0c1f78f.png",
+    "static/media/3.png": "/riegoreactpage/static/media/3.71e71c54.png",
+    "static/media/4.png": "/riegoreactpage/static/media/4.d3a2ef6b.png",
+    "static/media/5.png": "/riegoreactpage/static/media/5.1cccf7d4.png",
+    "static/media/6.png": "/riegoreactpage/static/media/6.4ccbfbca.png",
+    "static/media/7.png": "/riegoreactpage/static/media/7.077161b6.png",
+    "static/media/8.png": "/riegoreactpage/static/media/8.1df7c80b.png",
+    "static/media/bowats.png": "/riegoreactpage/static/media/bowats.04410047.png",
+    "static/media/title3.png": "/riegoreactpage/static/media/title3.23afcf9d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cd7d024b.js",
-    "static/js/2.1295925a.chunk.js",
-    "static/css/main.7083cbe6.chunk.css",
-    "static/js/main.e99c7b4b.chunk.js"
+    "static/js/2.8944fbd4.chunk.js",
+    "static/css/main.4ab3d214.chunk.css",
+    "static/js/main.55604a08.chunk.js"
   ]
 }
