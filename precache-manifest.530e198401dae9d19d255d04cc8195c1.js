@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "141c62e87a037622000bfcd8d1bc3544",
+    "revision": "aaee76f277b378035e2e75dd6e60c784",
     "url": "/riegoreactpage/index.html"
   },
   {
-    "revision": "fd32d493ff6ba7403b89",
+    "revision": "6e13342e332147db89f6",
     "url": "/riegoreactpage/static/css/main.4ab3d214.chunk.css"
   },
   {
-    "revision": "4585fe5079ba7a7f3af4",
-    "url": "/riegoreactpage/static/js/2.8944fbd4.chunk.js"
+    "revision": "346e75b83ebe42accc88",
+    "url": "/riegoreactpage/static/js/2.209cc369.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/riegoreactpage/static/js/2.8944fbd4.chunk.js.LICENSE.txt"
+    "url": "/riegoreactpage/static/js/2.209cc369.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd32d493ff6ba7403b89",
-    "url": "/riegoreactpage/static/js/main.26a5ff59.chunk.js"
+    "revision": "6e13342e332147db89f6",
+    "url": "/riegoreactpage/static/js/main.84462a49.chunk.js"
   },
   {
     "revision": "bcfd70ec760ffffb7969",
